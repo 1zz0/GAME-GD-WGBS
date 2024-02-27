@@ -1,0 +1,4 @@
+repository "BSCS602 THESIS GROUP@yoscatubig@cloud"
+  path "/"
+    br "/main"
+    co "/main"
